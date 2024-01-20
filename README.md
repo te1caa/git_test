@@ -6,4 +6,3 @@ git config --global color.ui auto
 git config --global pull.rebase false
 git config --get user.te1caa
 git config --get user.tea08022008@gmail.com
-adgvsdg
